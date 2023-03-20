@@ -34,3 +34,17 @@ output {
 	}
 }
 ````
+
+## rerun command 
+
+delete sincedb in folder
+
+```
+D:\elk\logstash-7.14.1\data\plugins\inputs\file\*
+```
+
+delete log in folder 
+
+```
+D:\elk\logstash-7.14.1\logs\*
+```
